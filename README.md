@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dorffdaniel 😁
+## Bem-vindo(a) ao perfil do Dorffdaniel 😁💻
 
  <div>
    <a href="https://github.com/dorffdaniel">
