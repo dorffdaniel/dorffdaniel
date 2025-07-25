@@ -14,7 +14,7 @@
  
 <br>
 
- <img align="right" alt="GIF" src="code.gif" width="40%" height="400px" />
+ <img align=" center" alt="GIF" src="code.gif" width="40%" height="400px" />
  
 ### Minhas redes sociais!
  
