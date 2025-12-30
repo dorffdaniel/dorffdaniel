@@ -1,12 +1,8 @@
-## Bem-vindo(a) ao perfil do Dorffdaniel 😁💻
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorffdaniel&color=blue" alt="Profile views" /> </p>
- <div>
-   <a href="https://github.com/dorffdaniel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorffdaniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorffdaniel&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+## Hi, I’m Daniel Alves. 🧑‍💻
+<p>Tenho 27 anos e sou estudante de desenvolvimento Full Stack, atualmente em formação no curso Técnico Especialista em tecnologias e Programação de sistemas de informação-Évora</p>
+
 <br>
-    
+<p>Tecnologias estudadas e aplicadas em projetos:</p>   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,8 +26,8 @@
 <br>
 
  <img align=" center" alt="GIF" src="code.gif" width="40%" height="400px" />
- 
-### Minhas redes sociais!
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorffdaniel&color=blue" alt="Profile views" /> </p>
+<p>Minhas redes sociais!</p>
  
 <div style="display: block">
   <a href="dorffdaniel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
