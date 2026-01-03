@@ -1,6 +1,9 @@
 ## Hi, I’m Daniel Alves. 🧑‍💻
 <p>Tenho 27 anos e sou estudante de desenvolvimento Full Stack, atualmente em formação no curso Técnico Especialista em tecnologias e Programação de sistemas de informação-Évora</p>
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dorffdaniel&layout=compact&theme=dracula)
+
+
 <br>
 <p>Tecnologias estudadas e aplicadas em projetos:</p>   
 <div style="display: inline_block">
